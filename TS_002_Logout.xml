@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TS_002 Logout" parallel="false">
+  <test name="TC_002_1 Verify logout function">
+    <classes>
+      <class name="testCases.Logout.TC_002_1_Logout"/>  
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

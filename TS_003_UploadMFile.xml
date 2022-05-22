@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TS_003 Upload M File" parallel="false">
+  <test name="TC_003_2 Upload M file with errors">
+    <classes>
+      <class name="testCases.UploadMFile.TC_003_2_UploadValidMFileWithErrors"/>  
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

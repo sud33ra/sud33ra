@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TS_001 Login" parallel="false">
+  <test name="TC_001_1 Login to the system with valid credentials">
+    <classes>
+      <class name="testCases.Login.TC_001_1_LoginWithValidCredentials"/>  
+    </classes>
+  </test> <!-- Test -->
+  <test name="TC_001_2 Login to the system with invalid username">
+    <classes>
+      <class name="testCases.Login.TC_001_2_LoginWithInvalidUsername"/>
+    </classes>
+  </test>
+  <test name="TC_001_3 Login to the system with invalid password">
+    <classes>
+      <class name="testCases.Login.TC_001_3_LoginWithInvalidPassword"/>
+    </classes>
+  </test>
+  
+  
+</suite> <!-- Suite -->

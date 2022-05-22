@@ -1,0 +1,1186 @@
+2020-06-02 12:31:00,493 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:00,494 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:00,495 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-02 12:31:00,495 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:00,495 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:12,010 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-02 12:31:14,695 INFO  [Log] Excel sheet opened 
+2020-06-02 12:31:15,029 INFO  [Log] Username entered 
+2020-06-02 12:31:15,241 INFO  [Log] password entered 
+2020-06-02 12:31:15,352 INFO  [Log] Click login button 
+2020-06-02 12:31:15,352 INFO  [Log] Login to admin panel 
+2020-06-02 12:31:15,951 INFO  [Log] Home page link found 
+2020-06-02 12:31:16,220 INFO  [Log] Home page icon found 
+2020-06-02 12:31:17,185 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:17,185 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:17,185 INFO  [Log] X 
+2020-06-02 12:31:17,185 INFO  [Log] X 
+2020-06-02 12:31:17,185 INFO  [Log] X 
+2020-06-02 12:31:17,185 INFO  [Log] X 
+2020-06-02 12:31:17,251 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:17,251 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:17,251 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-02 12:31:17,251 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:17,251 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:24,496 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-02 12:31:24,574 INFO  [Log] Excel sheet opened 
+2020-06-02 12:31:24,983 INFO  [Log] Username entered 
+2020-06-02 12:31:25,134 INFO  [Log] password entered 
+2020-06-02 12:31:25,254 INFO  [Log] Click login button 
+2020-06-02 12:31:25,799 INFO  [Log] Error message found 
+2020-06-02 12:31:26,523 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:26,524 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:26,524 INFO  [Log] X 
+2020-06-02 12:31:26,524 INFO  [Log] X 
+2020-06-02 12:31:26,524 INFO  [Log] X 
+2020-06-02 12:31:26,524 INFO  [Log] X 
+2020-06-02 12:31:26,783 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:26,783 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:26,783 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-02 12:31:26,783 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:26,783 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:34,217 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-02 12:31:34,263 INFO  [Log] Excel sheet opened 
+2020-06-02 12:31:34,547 INFO  [Log] Username entered 
+2020-06-02 12:31:34,725 INFO  [Log] password entered 
+2020-06-02 12:31:34,798 INFO  [Log] Click login button 
+2020-06-02 12:31:35,373 INFO  [Log] Error message found 
+2020-06-02 12:31:36,525 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:36,525 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:36,525 INFO  [Log] X 
+2020-06-02 12:31:36,525 INFO  [Log] X 
+2020-06-02 12:31:36,525 INFO  [Log] X 
+2020-06-02 12:31:36,525 INFO  [Log] X 
+2020-06-02 12:31:36,555 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:36,555 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:36,555 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-02 12:31:36,555 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:36,555 INFO  [Log] **************************************************************************************** 
+2020-06-02 12:31:43,915 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-02 12:31:43,947 INFO  [Log] Excel sheet opened 
+2020-06-02 12:31:44,240 INFO  [Log] Username entered 
+2020-06-02 12:31:44,439 INFO  [Log] password entered 
+2020-06-02 12:31:44,538 INFO  [Log] Click login button 
+2020-06-02 12:31:44,538 INFO  [Log] Login to admin panel 
+2020-06-02 12:31:45,172 INFO  [Log] Click logout button 
+2020-06-02 12:31:45,295 INFO  [Log] Error message found 
+2020-06-02 12:31:45,976 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:45,976 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-02 12:31:45,976 INFO  [Log] X 
+2020-06-02 12:31:45,976 INFO  [Log] X 
+2020-06-02 12:31:45,976 INFO  [Log] X 
+2020-06-02 12:31:45,976 INFO  [Log] X 
+2020-06-04 11:37:18,810 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:18,811 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:18,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-04 11:37:18,811 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:18,811 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:30,905 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-04 11:37:34,725 INFO  [Log] Excel sheet opened 
+2020-06-04 11:37:35,354 INFO  [Log] Username entered 
+2020-06-04 11:37:35,502 INFO  [Log] password entered 
+2020-06-04 11:37:35,598 INFO  [Log] Click login button 
+2020-06-04 11:37:35,598 INFO  [Log] Login to admin panel 
+2020-06-04 11:37:36,364 INFO  [Log] Home page link found 
+2020-06-04 11:37:36,628 INFO  [Log] Home page icon found 
+2020-06-04 11:37:37,819 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:37:37,819 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:37:37,819 INFO  [Log] X 
+2020-06-04 11:37:37,819 INFO  [Log] X 
+2020-06-04 11:37:37,819 INFO  [Log] X 
+2020-06-04 11:37:37,819 INFO  [Log] X 
+2020-06-04 11:37:38,002 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:38,002 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:38,002 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-04 11:37:38,002 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:38,002 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:46,544 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-04 11:37:46,607 INFO  [Log] Excel sheet opened 
+2020-06-04 11:37:46,844 INFO  [Log] Username entered 
+2020-06-04 11:37:47,042 INFO  [Log] password entered 
+2020-06-04 11:37:47,127 INFO  [Log] Click login button 
+2020-06-04 11:37:47,689 INFO  [Log] Error message found 
+2020-06-04 11:37:48,583 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:37:48,583 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:37:48,583 INFO  [Log] X 
+2020-06-04 11:37:48,584 INFO  [Log] X 
+2020-06-04 11:37:48,584 INFO  [Log] X 
+2020-06-04 11:37:48,584 INFO  [Log] X 
+2020-06-04 11:37:48,669 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:48,670 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:48,670 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-04 11:37:48,670 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:48,670 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:37:57,644 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-04 11:37:57,707 INFO  [Log] Excel sheet opened 
+2020-06-04 11:37:57,978 INFO  [Log] Username entered 
+2020-06-04 11:37:58,092 INFO  [Log] password entered 
+2020-06-04 11:37:58,174 INFO  [Log] Click login button 
+2020-06-04 11:37:58,610 INFO  [Log] Error message found 
+2020-06-04 11:37:59,932 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:37:59,932 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:37:59,932 INFO  [Log] X 
+2020-06-04 11:37:59,932 INFO  [Log] X 
+2020-06-04 11:37:59,933 INFO  [Log] X 
+2020-06-04 11:37:59,933 INFO  [Log] X 
+2020-06-04 11:38:00,038 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:38:00,038 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:38:00,038 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-04 11:38:00,038 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:38:00,038 INFO  [Log] **************************************************************************************** 
+2020-06-04 11:38:09,161 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-04 11:38:09,229 INFO  [Log] Excel sheet opened 
+2020-06-04 11:38:09,558 INFO  [Log] Username entered 
+2020-06-04 11:38:09,819 INFO  [Log] password entered 
+2020-06-04 11:38:09,893 INFO  [Log] Click login button 
+2020-06-04 11:38:09,893 INFO  [Log] Login to admin panel 
+2020-06-04 11:38:10,913 INFO  [Log] Click logout button 
+2020-06-04 11:38:11,009 INFO  [Log] Error message found 
+2020-06-04 11:38:11,729 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:38:11,730 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-04 11:38:11,730 INFO  [Log] X 
+2020-06-04 11:38:11,730 INFO  [Log] X 
+2020-06-04 11:38:11,730 INFO  [Log] X 
+2020-06-04 11:38:11,730 INFO  [Log] X 
+2020-06-10 13:29:49,361 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:29:49,362 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:29:49,362 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 13:29:49,362 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:29:49,362 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:01,729 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 13:30:03,403 INFO  [Log] Excel sheet opened 
+2020-06-10 13:30:03,594 INFO  [Log] Username entered 
+2020-06-10 13:30:03,690 INFO  [Log] password entered 
+2020-06-10 13:30:03,750 INFO  [Log] Click login button 
+2020-06-10 13:30:03,750 INFO  [Log] Login to admin panel 
+2020-06-10 13:30:04,288 INFO  [Log] Home page link found 
+2020-06-10 13:30:04,426 INFO  [Log] Home page icon found 
+2020-06-10 13:30:05,078 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:05,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:05,079 INFO  [Log] X 
+2020-06-10 13:30:05,079 INFO  [Log] X 
+2020-06-10 13:30:05,079 INFO  [Log] X 
+2020-06-10 13:30:05,079 INFO  [Log] X 
+2020-06-10 13:30:05,144 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:05,144 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:05,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 13:30:05,144 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:05,144 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:11,726 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 13:30:11,768 INFO  [Log] Excel sheet opened 
+2020-06-10 13:30:11,980 INFO  [Log] Username entered 
+2020-06-10 13:30:12,087 INFO  [Log] password entered 
+2020-06-10 13:30:12,160 INFO  [Log] Click login button 
+2020-06-10 13:30:12,592 INFO  [Log] Error message found 
+2020-06-10 13:30:13,210 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:13,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:13,211 INFO  [Log] X 
+2020-06-10 13:30:13,211 INFO  [Log] X 
+2020-06-10 13:30:13,211 INFO  [Log] X 
+2020-06-10 13:30:13,211 INFO  [Log] X 
+2020-06-10 13:30:13,310 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:13,310 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:13,310 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 13:30:13,310 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:13,310 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:19,618 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 13:30:19,648 INFO  [Log] Excel sheet opened 
+2020-06-10 13:30:19,815 INFO  [Log] Username entered 
+2020-06-10 13:30:19,889 INFO  [Log] password entered 
+2020-06-10 13:30:19,963 INFO  [Log] Click login button 
+2020-06-10 13:30:20,399 INFO  [Log] Error message found 
+2020-06-10 13:30:21,012 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:21,013 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:21,013 INFO  [Log] X 
+2020-06-10 13:30:21,013 INFO  [Log] X 
+2020-06-10 13:30:21,013 INFO  [Log] X 
+2020-06-10 13:30:21,013 INFO  [Log] X 
+2020-06-10 13:30:21,051 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:21,051 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:21,051 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 13:30:21,051 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:21,051 INFO  [Log] **************************************************************************************** 
+2020-06-10 13:30:27,494 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 13:30:27,525 INFO  [Log] Excel sheet opened 
+2020-06-10 13:30:27,684 INFO  [Log] Username entered 
+2020-06-10 13:30:27,772 INFO  [Log] password entered 
+2020-06-10 13:30:27,857 INFO  [Log] Click login button 
+2020-06-10 13:30:27,857 INFO  [Log] Login to admin panel 
+2020-06-10 13:30:28,435 INFO  [Log] Click logout button 
+2020-06-10 13:30:28,506 INFO  [Log] Error message found 
+2020-06-10 13:30:29,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:29,163 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 13:30:29,163 INFO  [Log] X 
+2020-06-10 13:30:29,163 INFO  [Log] X 
+2020-06-10 13:30:29,163 INFO  [Log] X 
+2020-06-10 13:30:29,163 INFO  [Log] X 
+2020-06-10 22:28:07,562 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:07,562 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:07,562 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:28:07,562 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:07,563 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:57,932 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:57,933 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:57,933 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:28:57,933 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:28:57,933 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:07,483 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:29:10,140 INFO  [Log] Excel sheet opened 
+2020-06-10 22:29:10,577 INFO  [Log] Username entered 
+2020-06-10 22:29:10,714 INFO  [Log] password entered 
+2020-06-10 22:29:10,800 INFO  [Log] Click login button 
+2020-06-10 22:29:10,800 INFO  [Log] Login to admin panel 
+2020-06-10 22:29:11,449 INFO  [Log] Home page link found 
+2020-06-10 22:29:11,453 INFO  [Log] Home page icon found 
+2020-06-10 22:29:12,403 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:12,404 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:12,404 INFO  [Log] X 
+2020-06-10 22:29:12,404 INFO  [Log] X 
+2020-06-10 22:29:12,404 INFO  [Log] X 
+2020-06-10 22:29:12,405 INFO  [Log] X 
+2020-06-10 22:29:12,503 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:12,503 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:12,503 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:29:12,503 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:12,503 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:19,626 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:29:19,733 INFO  [Log] Excel sheet opened 
+2020-06-10 22:29:19,970 INFO  [Log] Username entered 
+2020-06-10 22:29:20,188 INFO  [Log] password entered 
+2020-06-10 22:29:20,302 INFO  [Log] Click login button 
+2020-06-10 22:29:20,858 INFO  [Log] Error message found 
+2020-06-10 22:29:21,614 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:21,614 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:21,614 INFO  [Log] X 
+2020-06-10 22:29:21,614 INFO  [Log] X 
+2020-06-10 22:29:21,614 INFO  [Log] X 
+2020-06-10 22:29:21,614 INFO  [Log] X 
+2020-06-10 22:29:21,695 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:21,696 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:21,696 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:29:21,696 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:21,696 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:29,054 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:29:29,118 INFO  [Log] Excel sheet opened 
+2020-06-10 22:29:29,411 INFO  [Log] Username entered 
+2020-06-10 22:29:29,555 INFO  [Log] password entered 
+2020-06-10 22:29:29,646 INFO  [Log] Click login button 
+2020-06-10 22:29:30,235 INFO  [Log] Error message found 
+2020-06-10 22:29:30,893 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:30,894 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:30,894 INFO  [Log] X 
+2020-06-10 22:29:30,894 INFO  [Log] X 
+2020-06-10 22:29:30,894 INFO  [Log] X 
+2020-06-10 22:29:30,894 INFO  [Log] X 
+2020-06-10 22:29:30,999 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:30,999 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:30,999 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:29:30,999 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:30,999 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:29:40,057 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:29:40,090 INFO  [Log] Excel sheet opened 
+2020-06-10 22:29:40,354 INFO  [Log] Username entered 
+2020-06-10 22:29:40,489 INFO  [Log] password entered 
+2020-06-10 22:29:40,578 INFO  [Log] Click login button 
+2020-06-10 22:29:40,578 INFO  [Log] Login to admin panel 
+2020-06-10 22:29:41,560 INFO  [Log] Click logout button 
+2020-06-10 22:29:41,660 INFO  [Log] Error message found 
+2020-06-10 22:29:42,375 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:42,375 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:29:42,375 INFO  [Log] X 
+2020-06-10 22:29:42,375 INFO  [Log] X 
+2020-06-10 22:29:42,375 INFO  [Log] X 
+2020-06-10 22:29:42,375 INFO  [Log] X 
+2020-06-10 22:39:24,905 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:24,906 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:24,906 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:39:24,906 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:24,906 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:34,128 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:39:35,610 INFO  [Log] Excel sheet opened 
+2020-06-10 22:39:35,937 INFO  [Log] Username entered 
+2020-06-10 22:39:36,143 INFO  [Log] password entered 
+2020-06-10 22:39:36,252 INFO  [Log] Click login button 
+2020-06-10 22:39:36,253 INFO  [Log] Login to admin panel 
+2020-06-10 22:39:36,807 INFO  [Log] Home page link found 
+2020-06-10 22:39:36,810 INFO  [Log] Home page icon found 
+2020-06-10 22:39:37,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:39:37,574 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:39:37,574 INFO  [Log] X 
+2020-06-10 22:39:37,574 INFO  [Log] X 
+2020-06-10 22:39:37,574 INFO  [Log] X 
+2020-06-10 22:39:37,574 INFO  [Log] X 
+2020-06-10 22:39:37,613 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:37,613 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:37,613 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:39:37,613 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:37,613 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:44,658 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:39:44,740 INFO  [Log] Excel sheet opened 
+2020-06-10 22:39:44,994 INFO  [Log] Username entered 
+2020-06-10 22:39:45,151 INFO  [Log] password entered 
+2020-06-10 22:39:45,259 INFO  [Log] Click login button 
+2020-06-10 22:39:45,920 INFO  [Log] Error message found 
+2020-06-10 22:39:46,632 ERROR [Log] Error message didn't matchexpected [true] but found [false] 
+2020-06-10 22:39:47,329 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:39:47,329 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:39:47,329 INFO  [Log] X 
+2020-06-10 22:39:47,329 INFO  [Log] X 
+2020-06-10 22:39:47,329 INFO  [Log] X 
+2020-06-10 22:39:47,329 INFO  [Log] X 
+2020-06-10 22:39:47,405 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:47,405 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:47,405 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:39:47,405 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:47,405 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:55,030 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:39:55,068 INFO  [Log] Excel sheet opened 
+2020-06-10 22:39:55,317 INFO  [Log] Username entered 
+2020-06-10 22:39:55,417 INFO  [Log] password entered 
+2020-06-10 22:39:55,501 INFO  [Log] Click login button 
+2020-06-10 22:39:55,989 INFO  [Log] Error message found 
+2020-06-10 22:39:56,654 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:39:56,655 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:39:56,655 INFO  [Log] X 
+2020-06-10 22:39:56,655 INFO  [Log] X 
+2020-06-10 22:39:56,655 INFO  [Log] X 
+2020-06-10 22:39:56,655 INFO  [Log] X 
+2020-06-10 22:39:56,772 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:56,772 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:56,772 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:39:56,772 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:39:56,773 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:40:05,149 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:40:05,226 INFO  [Log] Excel sheet opened 
+2020-06-10 22:40:05,481 INFO  [Log] Username entered 
+2020-06-10 22:40:05,658 INFO  [Log] password entered 
+2020-06-10 22:40:05,749 INFO  [Log] Click login button 
+2020-06-10 22:40:05,749 INFO  [Log] Login to admin panel 
+2020-06-10 22:40:06,732 INFO  [Log] Click logout button 
+2020-06-10 22:40:06,812 INFO  [Log] Error message found 
+2020-06-10 22:40:07,487 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:40:07,487 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:40:07,487 INFO  [Log] X 
+2020-06-10 22:40:07,487 INFO  [Log] X 
+2020-06-10 22:40:07,487 INFO  [Log] X 
+2020-06-10 22:40:07,487 INFO  [Log] X 
+2020-06-10 22:57:05,377 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:57:05,378 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:57:05,378 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:57:05,378 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:57:05,378 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:57:14,597 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:57:15,856 INFO  [Log] Excel sheet opened 
+2020-06-10 22:57:16,296 INFO  [Log] Username entered 
+2020-06-10 22:57:16,549 INFO  [Log] password entered 
+2020-06-10 22:57:16,636 INFO  [Log] Click login button 
+2020-06-10 22:57:16,636 INFO  [Log] Login to admin panel 
+2020-06-10 22:57:17,944 INFO  [Log] Click Upload M File icon 
+2020-06-10 22:57:18,058 INFO  [Log] Upload M File label found 
+2020-06-10 22:57:28,735 ERROR [Log] Send file path to the text box failed 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[2]/div/div/div/input[1]"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOISL_SUDEERAS', ip: '10.100.20.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sudeeras\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 15758eaeac2643f81abc6d78f6288096
+*** Element info: {Using=xpath, value=/html/body/div[3]/div/div/div[2]/div/div/div/input[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at pages.UploadMFilePage.uploadMfile(UploadMFilePage.java:69)
+	at testCases.UploadMFile.TC_003_1_UploadValidMFile.loginWithValidCredentials(TC_003_1_UploadValidMFile.java:66)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+2020-06-10 22:57:29,503 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:57:29,503 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:57:29,504 INFO  [Log] X 
+2020-06-10 22:57:29,504 INFO  [Log] X 
+2020-06-10 22:57:29,504 INFO  [Log] X 
+2020-06-10 22:57:29,504 INFO  [Log] X 
+2020-06-10 22:59:10,849 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:59:10,850 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:59:10,850 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 22:59:10,850 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:59:10,850 INFO  [Log] **************************************************************************************** 
+2020-06-10 22:59:19,983 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 22:59:21,221 INFO  [Log] Excel sheet opened 
+2020-06-10 22:59:21,602 INFO  [Log] Username entered 
+2020-06-10 22:59:21,778 INFO  [Log] password entered 
+2020-06-10 22:59:21,860 INFO  [Log] Click login button 
+2020-06-10 22:59:21,860 INFO  [Log] Login to admin panel 
+2020-06-10 22:59:22,810 INFO  [Log] Click Upload M File icon 
+2020-06-10 22:59:23,199 INFO  [Log] Upload M File label found 
+2020-06-10 22:59:23,810 ERROR [Log] Send file path to the text box failed 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOISL_SUDEERAS', ip: '10.100.20.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sudeeras\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52117}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 08edd55be73ff41fea005d620ec27a54
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at pages.UploadMFilePage.uploadMfile(UploadMFilePage.java:69)
+	at testCases.UploadMFile.TC_003_1_UploadValidMFile.loginWithValidCredentials(TC_003_1_UploadValidMFile.java:66)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+2020-06-10 22:59:25,186 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:59:25,186 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 22:59:25,186 INFO  [Log] X 
+2020-06-10 22:59:25,186 INFO  [Log] X 
+2020-06-10 22:59:25,186 INFO  [Log] X 
+2020-06-10 22:59:25,186 INFO  [Log] X 
+2020-06-10 23:01:21,085 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:01:21,085 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:01:21,087 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 23:01:21,087 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:01:21,087 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:01:30,142 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 23:01:31,678 INFO  [Log] Excel sheet opened 
+2020-06-10 23:01:32,099 INFO  [Log] Username entered 
+2020-06-10 23:01:32,351 INFO  [Log] password entered 
+2020-06-10 23:01:32,481 INFO  [Log] Click login button 
+2020-06-10 23:01:32,481 INFO  [Log] Login to admin panel 
+2020-06-10 23:01:33,671 INFO  [Log] Click Upload M File icon 
+2020-06-10 23:01:34,184 INFO  [Log] Upload M File label found 
+2020-06-10 23:01:34,200 INFO  [Log] Javascript 
+2020-06-10 23:01:34,937 ERROR [Log] Send file path to the text box failed 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOISL_SUDEERAS', ip: '10.100.20.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sudeeras\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3aa453daab3949d284fa5502dc626576
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at pages.UploadMFilePage.uploadMfile(UploadMFilePage.java:71)
+	at testCases.UploadMFile.TC_003_1_UploadValidMFile.loginWithValidCredentials(TC_003_1_UploadValidMFile.java:66)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+2020-06-10 23:01:36,050 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 23:01:36,050 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 23:01:36,050 INFO  [Log] X 
+2020-06-10 23:01:36,050 INFO  [Log] X 
+2020-06-10 23:01:36,050 INFO  [Log] X 
+2020-06-10 23:01:36,050 INFO  [Log] X 
+2020-06-10 23:31:28,311 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:31:28,312 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:31:28,312 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 23:31:28,312 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:31:28,312 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:31:37,623 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 23:31:39,042 INFO  [Log] Excel sheet opened 
+2020-06-10 23:31:39,447 INFO  [Log] Username entered 
+2020-06-10 23:31:39,609 INFO  [Log] password entered 
+2020-06-10 23:31:39,704 INFO  [Log] Click login button 
+2020-06-10 23:31:39,704 INFO  [Log] Login to admin panel 
+2020-06-10 23:31:40,683 INFO  [Log] Click Upload M File icon 
+2020-06-10 23:31:41,127 INFO  [Log] Upload M File label found 
+2020-06-10 23:31:41,143 INFO  [Log] Javascript 
+2020-06-10 23:31:41,331 INFO  [Log] SendKeys 
+2020-06-10 23:31:41,348 INFO  [Log] Send file path to the text box 
+2020-06-10 23:31:41,538 INFO  [Log] Click upload button 
+2020-06-10 23:31:42,289 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 23:31:42,289 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 23:31:42,289 INFO  [Log] X 
+2020-06-10 23:31:42,289 INFO  [Log] X 
+2020-06-10 23:31:42,289 INFO  [Log] X 
+2020-06-10 23:31:42,290 INFO  [Log] X 
+2020-06-10 23:46:04,405 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:46:04,406 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:46:04,406 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-10 23:46:04,406 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:46:04,406 INFO  [Log] **************************************************************************************** 
+2020-06-10 23:46:25,354 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-10 23:46:39,141 INFO  [Log] Excel sheet opened 
+2020-06-10 23:46:39,553 INFO  [Log] Username entered 
+2020-06-10 23:46:39,715 INFO  [Log] password entered 
+2020-06-10 23:46:39,836 INFO  [Log] Click login button 
+2020-06-10 23:46:39,841 INFO  [Log] Login to admin panel 
+2020-06-10 23:47:12,614 INFO  [Log] Click Upload M File icon 
+2020-06-10 23:47:13,579 INFO  [Log] Upload M File label found 
+2020-06-10 23:47:55,162 INFO  [Log] Javascript 
+2020-06-10 23:48:12,374 INFO  [Log] Send file path to the text box 
+2020-06-10 23:48:17,870 INFO  [Log] Send file path to the text box 
+2020-06-10 23:49:15,039 INFO  [Log] Click upload button 
+2020-06-10 23:49:27,884 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 23:49:27,885 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-10 23:49:27,885 INFO  [Log] X 
+2020-06-10 23:49:27,885 INFO  [Log] X 
+2020-06-10 23:49:27,885 INFO  [Log] X 
+2020-06-10 23:49:27,885 INFO  [Log] X 
+2020-06-11 14:54:43,269 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:54:43,269 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:54:43,269 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 14:54:43,269 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:54:43,269 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:54:52,942 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 14:54:54,801 INFO  [Log] Excel sheet opened 
+2020-06-11 14:54:55,132 INFO  [Log] Username entered 
+2020-06-11 14:54:55,254 INFO  [Log] password entered 
+2020-06-11 14:54:55,323 INFO  [Log] Click login button 
+2020-06-11 14:54:55,323 INFO  [Log] Login to admin panel 
+2020-06-11 14:54:56,192 INFO  [Log] Click Upload M File icon 
+2020-06-11 14:54:56,267 INFO  [Log] Upload M File label found 
+2020-06-11 14:54:56,415 INFO  [Log] Javascript 
+2020-06-11 14:54:56,469 INFO  [Log] Send file path to the text box 
+2020-06-11 14:54:56,768 INFO  [Log] Click upload button 
+2020-06-11 14:54:57,394 INFO  [Log] Error message found 
+2020-06-11 14:54:58,102 ERROR [Log] Wrong error message expected [true] but found [false] 
+2020-06-11 14:54:59,436 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 14:54:59,437 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 14:54:59,437 INFO  [Log] X 
+2020-06-11 14:54:59,437 INFO  [Log] X 
+2020-06-11 14:54:59,437 INFO  [Log] X 
+2020-06-11 14:54:59,437 INFO  [Log] X 
+2020-06-11 14:57:37,381 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:57:37,381 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:57:37,381 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 14:57:37,381 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:57:37,381 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:57:56,129 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 14:57:57,045 INFO  [Log] Excel sheet opened 
+2020-06-11 14:57:57,315 INFO  [Log] Username entered 
+2020-06-11 14:57:57,432 INFO  [Log] password entered 
+2020-06-11 14:57:57,504 INFO  [Log] Click login button 
+2020-06-11 14:57:57,504 INFO  [Log] Login to admin panel 
+2020-06-11 14:57:58,580 INFO  [Log] Click Upload M File icon 
+2020-06-11 14:57:58,665 INFO  [Log] Upload M File label found 
+2020-06-11 14:58:10,412 INFO  [Log] Javascript 
+2020-06-11 14:58:10,476 INFO  [Log] Send file path to the text box 
+2020-06-11 14:58:18,326 INFO  [Log] Click upload button 
+2020-06-11 14:58:26,451 INFO  [Log] Error message found 
+2020-06-11 14:59:26,017 ERROR [Log] Wrong error message expected [true] but found [false] 
+2020-06-11 14:59:26,782 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 14:59:26,782 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 14:59:26,782 INFO  [Log] X 
+2020-06-11 14:59:26,782 INFO  [Log] X 
+2020-06-11 14:59:26,782 INFO  [Log] X 
+2020-06-11 14:59:26,782 INFO  [Log] X 
+2020-06-11 14:59:41,176 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:59:41,176 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:59:41,176 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 14:59:41,176 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:59:41,176 INFO  [Log] **************************************************************************************** 
+2020-06-11 14:59:55,761 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 14:59:56,666 INFO  [Log] Excel sheet opened 
+2020-06-11 14:59:56,984 INFO  [Log] Username entered 
+2020-06-11 14:59:57,089 INFO  [Log] password entered 
+2020-06-11 14:59:57,146 INFO  [Log] Click login button 
+2020-06-11 14:59:57,146 INFO  [Log] Login to admin panel 
+2020-06-11 14:59:58,602 INFO  [Log] Click Upload M File icon 
+2020-06-11 14:59:58,695 INFO  [Log] Upload M File label found 
+2020-06-11 15:00:01,976 INFO  [Log] Javascript 
+2020-06-11 15:00:02,045 INFO  [Log] Send file path to the text box 
+2020-06-11 15:00:09,396 INFO  [Log] Click upload button 
+2020-06-11 15:01:23,639 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:01:23,639 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:01:23,639 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_1_UploadValidMFile       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:01:23,639 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:01:23,639 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:01:32,032 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:01:32,700 INFO  [Log] Excel sheet opened 
+2020-06-11 15:01:32,931 INFO  [Log] Username entered 
+2020-06-11 15:01:33,032 INFO  [Log] password entered 
+2020-06-11 15:01:33,129 INFO  [Log] Click login button 
+2020-06-11 15:01:33,129 INFO  [Log] Login to admin panel 
+2020-06-11 15:01:34,007 INFO  [Log] Click Upload M File icon 
+2020-06-11 15:01:34,603 INFO  [Log] Upload M File label found 
+2020-06-11 15:01:34,614 INFO  [Log] Javascript 
+2020-06-11 15:01:34,663 INFO  [Log] Send file path to the text box 
+2020-06-11 15:01:34,761 INFO  [Log] Click upload button 
+2020-06-11 15:01:35,386 INFO  [Log] Error message found 
+2020-06-11 15:01:35,450 INFO  [Log] Error link found 
+2020-06-11 15:01:36,210 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_1_UploadValidMFile             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:01:36,210 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:01:36,210 INFO  [Log] X 
+2020-06-11 15:01:36,210 INFO  [Log] X 
+2020-06-11 15:01:36,210 INFO  [Log] X 
+2020-06-11 15:01:36,210 INFO  [Log] X 
+2020-06-11 15:10:26,387 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:26,388 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:26,388 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:10:26,388 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:26,388 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:34,744 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:10:35,660 INFO  [Log] Excel sheet opened 
+2020-06-11 15:10:35,892 INFO  [Log] Username entered 
+2020-06-11 15:10:36,000 INFO  [Log] password entered 
+2020-06-11 15:10:36,063 INFO  [Log] Click login button 
+2020-06-11 15:10:36,063 INFO  [Log] Login to admin panel 
+2020-06-11 15:10:36,545 INFO  [Log] Home page link found 
+2020-06-11 15:10:36,548 INFO  [Log] Home page icon found 
+2020-06-11 15:10:37,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:10:37,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:10:37,301 INFO  [Log] X 
+2020-06-11 15:10:37,301 INFO  [Log] X 
+2020-06-11 15:10:37,301 INFO  [Log] X 
+2020-06-11 15:10:37,301 INFO  [Log] X 
+2020-06-11 15:10:37,359 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:37,359 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:37,359 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:10:37,359 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:37,359 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:44,213 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:10:44,258 INFO  [Log] Excel sheet opened 
+2020-06-11 15:10:44,433 INFO  [Log] Username entered 
+2020-06-11 15:10:44,530 INFO  [Log] password entered 
+2020-06-11 15:10:44,594 INFO  [Log] Click login button 
+2020-06-11 15:10:44,968 INFO  [Log] Error message found 
+2020-06-11 15:10:45,448 ERROR [Log] Error message didn't match expected [true] but found [false] 
+2020-06-11 15:10:46,159 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:10:46,159 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:10:46,159 INFO  [Log] X 
+2020-06-11 15:10:46,159 INFO  [Log] X 
+2020-06-11 15:10:46,159 INFO  [Log] X 
+2020-06-11 15:10:46,159 INFO  [Log] X 
+2020-06-11 15:10:46,165 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:46,165 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:46,165 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:10:46,165 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:46,165 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:53,250 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:10:53,290 INFO  [Log] Excel sheet opened 
+2020-06-11 15:10:53,474 INFO  [Log] Username entered 
+2020-06-11 15:10:53,549 INFO  [Log] password entered 
+2020-06-11 15:10:53,618 INFO  [Log] Click login button 
+2020-06-11 15:10:54,048 INFO  [Log] Error message found 
+2020-06-11 15:10:54,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:10:54,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:10:54,760 INFO  [Log] X 
+2020-06-11 15:10:54,760 INFO  [Log] X 
+2020-06-11 15:10:54,760 INFO  [Log] X 
+2020-06-11 15:10:54,760 INFO  [Log] X 
+2020-06-11 15:10:54,773 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:54,773 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:54,773 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:10:54,773 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:10:54,773 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:11:01,547 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:11:01,569 INFO  [Log] Excel sheet opened 
+2020-06-11 15:11:01,751 INFO  [Log] Username entered 
+2020-06-11 15:11:01,844 INFO  [Log] password entered 
+2020-06-11 15:11:01,907 INFO  [Log] Click login button 
+2020-06-11 15:11:01,907 INFO  [Log] Login to admin panel 
+2020-06-11 15:11:02,658 INFO  [Log] Click logout button 
+2020-06-11 15:11:02,724 INFO  [Log] Error message found 
+2020-06-11 15:11:03,376 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:11:03,376 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:11:03,376 INFO  [Log] X 
+2020-06-11 15:11:03,376 INFO  [Log] X 
+2020-06-11 15:11:03,376 INFO  [Log] X 
+2020-06-11 15:11:03,376 INFO  [Log] X 
+2020-06-11 15:11:03,405 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:11:03,405 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:11:03,405 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_2_UploadValidMFileWithErrors       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:11:03,405 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:11:03,405 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:11:10,429 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:11:10,476 INFO  [Log] Excel sheet opened 
+2020-06-11 15:11:10,650 INFO  [Log] Username entered 
+2020-06-11 15:11:10,756 INFO  [Log] password entered 
+2020-06-11 15:11:10,805 INFO  [Log] Click login button 
+2020-06-11 15:11:10,805 INFO  [Log] Login to admin panel 
+2020-06-11 15:11:11,288 INFO  [Log] Click Upload M File icon 
+2020-06-11 15:11:12,033 INFO  [Log] Upload M File label found 
+2020-06-11 15:11:12,039 INFO  [Log] Javascript 
+2020-06-11 15:11:12,080 INFO  [Log] Send file path to the text box 
+2020-06-11 15:11:12,189 INFO  [Log] Click upload button 
+2020-06-11 15:11:12,631 INFO  [Log] Error message found 
+2020-06-11 15:11:12,697 INFO  [Log] Error link found 
+2020-06-11 15:11:13,371 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_2_UploadValidMFileWithErrors             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:11:13,371 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:11:13,371 INFO  [Log] X 
+2020-06-11 15:11:13,371 INFO  [Log] X 
+2020-06-11 15:11:13,371 INFO  [Log] X 
+2020-06-11 15:11:13,371 INFO  [Log] X 
+2020-06-11 15:19:18,415 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:18,415 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:18,415 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:19:18,415 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:18,415 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:27,693 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:19:28,780 INFO  [Log] Excel sheet opened 
+2020-06-11 15:19:29,068 INFO  [Log] Username entered 
+2020-06-11 15:19:29,219 INFO  [Log] password entered 
+2020-06-11 15:19:29,282 INFO  [Log] Click login button 
+2020-06-11 15:19:29,282 INFO  [Log] Login to admin panel 
+2020-06-11 15:19:29,792 INFO  [Log] Home page link found 
+2020-06-11 15:19:29,795 INFO  [Log] Home page icon found 
+2020-06-11 15:19:30,489 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:30,489 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:30,489 INFO  [Log] X 
+2020-06-11 15:19:30,489 INFO  [Log] X 
+2020-06-11 15:19:30,489 INFO  [Log] X 
+2020-06-11 15:19:30,489 INFO  [Log] X 
+2020-06-11 15:19:30,524 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:30,524 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:30,524 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:19:30,524 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:30,524 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:37,412 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:19:37,454 INFO  [Log] Excel sheet opened 
+2020-06-11 15:19:37,643 INFO  [Log] Username entered 
+2020-06-11 15:19:37,757 INFO  [Log] password entered 
+2020-06-11 15:19:37,814 INFO  [Log] Click login button 
+2020-06-11 15:19:38,245 INFO  [Log] Error message found 
+2020-06-11 15:19:38,730 ERROR [Log] Error message didn't match expected [true] but found [false] 
+2020-06-11 15:19:39,463 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:39,463 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:39,463 INFO  [Log] X 
+2020-06-11 15:19:39,463 INFO  [Log] X 
+2020-06-11 15:19:39,463 INFO  [Log] X 
+2020-06-11 15:19:39,463 INFO  [Log] X 
+2020-06-11 15:19:39,503 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:39,503 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:39,503 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:19:39,503 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:39,503 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:46,475 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:19:46,504 INFO  [Log] Excel sheet opened 
+2020-06-11 15:19:46,710 INFO  [Log] Username entered 
+2020-06-11 15:19:46,794 INFO  [Log] password entered 
+2020-06-11 15:19:46,863 INFO  [Log] Click login button 
+2020-06-11 15:19:47,297 INFO  [Log] Error message found 
+2020-06-11 15:19:48,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:48,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:48,003 INFO  [Log] X 
+2020-06-11 15:19:48,003 INFO  [Log] X 
+2020-06-11 15:19:48,003 INFO  [Log] X 
+2020-06-11 15:19:48,003 INFO  [Log] X 
+2020-06-11 15:19:48,025 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:48,025 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:48,025 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:19:48,025 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:48,025 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:55,272 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:19:55,299 INFO  [Log] Excel sheet opened 
+2020-06-11 15:19:55,528 INFO  [Log] Username entered 
+2020-06-11 15:19:55,646 INFO  [Log] password entered 
+2020-06-11 15:19:55,711 INFO  [Log] Click login button 
+2020-06-11 15:19:55,711 INFO  [Log] Login to admin panel 
+2020-06-11 15:19:56,558 INFO  [Log] Click logout button 
+2020-06-11 15:19:56,632 INFO  [Log] Error message found 
+2020-06-11 15:19:58,158 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:58,158 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:19:58,158 INFO  [Log] X 
+2020-06-11 15:19:58,158 INFO  [Log] X 
+2020-06-11 15:19:58,158 INFO  [Log] X 
+2020-06-11 15:19:58,158 INFO  [Log] X 
+2020-06-11 15:19:58,676 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:58,677 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:58,677 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_2_UploadValidMFileWithErrors       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 15:19:58,677 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:19:58,677 INFO  [Log] **************************************************************************************** 
+2020-06-11 15:20:05,901 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 15:20:05,921 INFO  [Log] Excel sheet opened 
+2020-06-11 15:20:06,140 INFO  [Log] Username entered 
+2020-06-11 15:20:06,257 INFO  [Log] password entered 
+2020-06-11 15:20:06,328 INFO  [Log] Click login button 
+2020-06-11 15:20:06,328 INFO  [Log] Login to admin panel 
+2020-06-11 15:20:07,268 INFO  [Log] Click Upload M File icon 
+2020-06-11 15:20:07,373 INFO  [Log] Upload M File label found 
+2020-06-11 15:20:07,382 INFO  [Log] Javascript 
+2020-06-11 15:20:07,465 INFO  [Log] Send file path to the text box 
+2020-06-11 15:20:07,679 INFO  [Log] Click upload button 
+2020-06-11 15:20:08,385 INFO  [Log] Error message found 
+2020-06-11 15:20:08,446 INFO  [Log] Error link found 
+2020-06-11 15:20:09,186 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_2_UploadValidMFileWithErrors             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:20:09,186 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 15:20:09,186 INFO  [Log] X 
+2020-06-11 15:20:09,186 INFO  [Log] X 
+2020-06-11 15:20:09,186 INFO  [Log] X 
+2020-06-11 15:20:09,186 INFO  [Log] X 
+2020-06-11 20:36:25,228 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:25,229 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:25,229 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 20:36:25,229 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:25,229 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:37,139 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 20:36:39,083 INFO  [Log] Excel sheet opened 
+2020-06-11 20:36:39,434 INFO  [Log] Username entered 
+2020-06-11 20:36:39,603 INFO  [Log] password entered 
+2020-06-11 20:36:39,686 INFO  [Log] Click login button 
+2020-06-11 20:36:39,686 INFO  [Log] Login to admin panel 
+2020-06-11 20:36:40,278 INFO  [Log] Home page link found 
+2020-06-11 20:36:40,280 INFO  [Log] Home page icon found 
+2020-06-11 20:36:41,609 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:36:41,609 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:36:41,609 INFO  [Log] X 
+2020-06-11 20:36:41,609 INFO  [Log] X 
+2020-06-11 20:36:41,609 INFO  [Log] X 
+2020-06-11 20:36:41,609 INFO  [Log] X 
+2020-06-11 20:36:41,664 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:41,664 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:41,664 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 20:36:41,664 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:41,664 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:48,679 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 20:36:48,743 INFO  [Log] Excel sheet opened 
+2020-06-11 20:36:49,083 INFO  [Log] Username entered 
+2020-06-11 20:36:49,275 INFO  [Log] password entered 
+2020-06-11 20:36:49,367 INFO  [Log] Click login button 
+2020-06-11 20:36:49,913 INFO  [Log] Error message found 
+2020-06-11 20:36:50,621 ERROR [Log] Error message didn't match expected [true] but found [false] 
+2020-06-11 20:36:51,397 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:36:51,397 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:36:51,397 INFO  [Log] X 
+2020-06-11 20:36:51,397 INFO  [Log] X 
+2020-06-11 20:36:51,397 INFO  [Log] X 
+2020-06-11 20:36:51,397 INFO  [Log] X 
+2020-06-11 20:36:51,417 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:51,417 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:51,417 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 20:36:51,417 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:51,417 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:36:58,440 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 20:36:58,483 INFO  [Log] Excel sheet opened 
+2020-06-11 20:36:58,831 INFO  [Log] Username entered 
+2020-06-11 20:36:59,027 INFO  [Log] password entered 
+2020-06-11 20:36:59,141 INFO  [Log] Click login button 
+2020-06-11 20:36:59,617 INFO  [Log] Error message found 
+2020-06-11 20:37:00,816 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:37:00,816 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:37:00,816 INFO  [Log] X 
+2020-06-11 20:37:00,816 INFO  [Log] X 
+2020-06-11 20:37:00,816 INFO  [Log] X 
+2020-06-11 20:37:00,816 INFO  [Log] X 
+2020-06-11 20:37:00,865 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:00,865 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:00,865 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 20:37:00,866 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:00,866 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:07,961 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 20:37:08,011 INFO  [Log] Excel sheet opened 
+2020-06-11 20:37:08,322 INFO  [Log] Username entered 
+2020-06-11 20:37:08,694 INFO  [Log] password entered 
+2020-06-11 20:37:08,880 INFO  [Log] Click login button 
+2020-06-11 20:37:08,880 INFO  [Log] Login to admin panel 
+2020-06-11 20:37:09,869 INFO  [Log] Click logout button 
+2020-06-11 20:37:09,964 INFO  [Log] Error message found 
+2020-06-11 20:37:10,708 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:37:10,708 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:37:10,708 INFO  [Log] X 
+2020-06-11 20:37:10,708 INFO  [Log] X 
+2020-06-11 20:37:10,708 INFO  [Log] X 
+2020-06-11 20:37:10,708 INFO  [Log] X 
+2020-06-11 20:37:10,750 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:10,750 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:10,750 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_2_UploadValidMFileWithErrors       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-11 20:37:10,750 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:10,750 INFO  [Log] **************************************************************************************** 
+2020-06-11 20:37:21,654 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-11 20:37:21,691 INFO  [Log] Excel sheet opened 
+2020-06-11 20:37:22,038 INFO  [Log] Username entered 
+2020-06-11 20:37:22,208 INFO  [Log] password entered 
+2020-06-11 20:37:22,302 INFO  [Log] Click login button 
+2020-06-11 20:37:22,302 INFO  [Log] Login to admin panel 
+2020-06-11 20:37:22,886 INFO  [Log] Click Upload M File icon 
+2020-06-11 20:37:23,024 INFO  [Log] Upload M File label found 
+2020-06-11 20:37:23,039 INFO  [Log] Javascript 
+2020-06-11 20:37:23,168 INFO  [Log] Send file path to the text box 
+2020-06-11 20:37:23,969 INFO  [Log] Click upload button 
+2020-06-11 20:37:24,411 INFO  [Log] Error message found 
+2020-06-11 20:37:24,494 INFO  [Log] Error link found 
+2020-06-11 20:37:25,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_2_UploadValidMFileWithErrors             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:37:25,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-11 20:37:25,383 INFO  [Log] X 
+2020-06-11 20:37:25,383 INFO  [Log] X 
+2020-06-11 20:37:25,383 INFO  [Log] X 
+2020-06-11 20:37:25,383 INFO  [Log] X 
+2020-06-15 15:21:14,804 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:14,829 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:14,829 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 15:21:14,829 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:14,829 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:28,861 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 15:21:31,745 INFO  [Log] Excel sheet opened 
+2020-06-15 15:21:31,938 INFO  [Log] Username entered 
+2020-06-15 15:21:32,046 INFO  [Log] password entered 
+2020-06-15 15:21:32,099 INFO  [Log] Click login button 
+2020-06-15 15:21:32,099 INFO  [Log] Login to admin panel 
+2020-06-15 15:21:32,983 INFO  [Log] Home page link found 
+2020-06-15 15:21:33,191 INFO  [Log] Home page icon found 
+2020-06-15 15:21:34,685 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:34,685 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:34,685 INFO  [Log] X 
+2020-06-15 15:21:34,685 INFO  [Log] X 
+2020-06-15 15:21:34,685 INFO  [Log] X 
+2020-06-15 15:21:34,685 INFO  [Log] X 
+2020-06-15 15:21:34,711 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:34,711 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:34,711 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 15:21:34,711 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:34,711 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:41,320 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 15:21:41,381 INFO  [Log] Excel sheet opened 
+2020-06-15 15:21:41,540 INFO  [Log] Username entered 
+2020-06-15 15:21:41,628 INFO  [Log] password entered 
+2020-06-15 15:21:41,679 INFO  [Log] Click login button 
+2020-06-15 15:21:42,142 INFO  [Log] Error message found 
+2020-06-15 15:21:42,651 ERROR [Log] Error message didn't match expected [true] but found [false] 
+2020-06-15 15:21:43,289 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:43,289 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:43,289 INFO  [Log] X 
+2020-06-15 15:21:43,289 INFO  [Log] X 
+2020-06-15 15:21:43,289 INFO  [Log] X 
+2020-06-15 15:21:43,289 INFO  [Log] X 
+2020-06-15 15:21:43,303 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:43,303 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:43,303 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 15:21:43,303 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:43,303 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:49,768 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 15:21:49,792 INFO  [Log] Excel sheet opened 
+2020-06-15 15:21:49,989 INFO  [Log] Username entered 
+2020-06-15 15:21:50,066 INFO  [Log] password entered 
+2020-06-15 15:21:50,128 INFO  [Log] Click login button 
+2020-06-15 15:21:50,567 INFO  [Log] Error message found 
+2020-06-15 15:21:51,208 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:51,208 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:51,208 INFO  [Log] X 
+2020-06-15 15:21:51,208 INFO  [Log] X 
+2020-06-15 15:21:51,208 INFO  [Log] X 
+2020-06-15 15:21:51,208 INFO  [Log] X 
+2020-06-15 15:21:51,232 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:51,232 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:51,232 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 15:21:51,232 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:51,232 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:57,626 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 15:21:57,645 INFO  [Log] Excel sheet opened 
+2020-06-15 15:21:57,836 INFO  [Log] Username entered 
+2020-06-15 15:21:57,944 INFO  [Log] password entered 
+2020-06-15 15:21:57,994 INFO  [Log] Click login button 
+2020-06-15 15:21:57,994 INFO  [Log] Login to admin panel 
+2020-06-15 15:21:58,604 INFO  [Log] Click logout button 
+2020-06-15 15:21:58,684 INFO  [Log] Error message found 
+2020-06-15 15:21:59,343 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:59,344 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:21:59,344 INFO  [Log] X 
+2020-06-15 15:21:59,344 INFO  [Log] X 
+2020-06-15 15:21:59,344 INFO  [Log] X 
+2020-06-15 15:21:59,344 INFO  [Log] X 
+2020-06-15 15:21:59,394 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:59,394 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:59,394 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_2_UploadValidMFileWithErrors       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 15:21:59,394 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:21:59,394 INFO  [Log] **************************************************************************************** 
+2020-06-15 15:22:05,843 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 15:22:05,868 INFO  [Log] Excel sheet opened 
+2020-06-15 15:22:06,045 INFO  [Log] Username entered 
+2020-06-15 15:22:06,133 INFO  [Log] password entered 
+2020-06-15 15:22:06,199 INFO  [Log] Click login button 
+2020-06-15 15:22:06,199 INFO  [Log] Login to admin panel 
+2020-06-15 15:22:06,771 INFO  [Log] Click Upload M File icon 
+2020-06-15 15:22:07,350 INFO  [Log] Upload M File label found 
+2020-06-15 15:22:07,356 INFO  [Log] Javascript 
+2020-06-15 15:22:07,396 INFO  [Log] Send file path to the text box 
+2020-06-15 15:22:07,492 INFO  [Log] Click upload button 
+2020-06-15 15:22:08,216 INFO  [Log] Error message found 
+2020-06-15 15:22:08,265 INFO  [Log] Error link found 
+2020-06-15 15:22:08,938 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_2_UploadValidMFileWithErrors             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:22:08,938 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 15:22:08,938 INFO  [Log] X 
+2020-06-15 15:22:08,938 INFO  [Log] X 
+2020-06-15 15:22:08,938 INFO  [Log] X 
+2020-06-15 15:22:08,938 INFO  [Log] X 
+2020-06-15 16:45:29,687 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:29,687 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:29,687 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_1_LoginWithValidCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 16:45:29,687 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:29,687 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:37,657 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 16:45:38,703 INFO  [Log] Excel sheet opened 
+2020-06-15 16:45:38,938 INFO  [Log] Username entered 
+2020-06-15 16:45:39,037 INFO  [Log] password entered 
+2020-06-15 16:45:39,094 INFO  [Log] Click login button 
+2020-06-15 16:45:39,094 INFO  [Log] Login to admin panel 
+2020-06-15 16:45:39,603 INFO  [Log] Home page link found 
+2020-06-15 16:45:39,604 INFO  [Log] Home page icon found 
+2020-06-15 16:45:40,674 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_1_LoginWithValidCredentials             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:45:40,674 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:45:40,674 INFO  [Log] X 
+2020-06-15 16:45:40,674 INFO  [Log] X 
+2020-06-15 16:45:40,674 INFO  [Log] X 
+2020-06-15 16:45:40,674 INFO  [Log] X 
+2020-06-15 16:45:40,701 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:40,701 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:40,701 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_2_LoginWithInvalidUsername       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 16:45:40,701 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:40,701 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:47,489 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 16:45:47,524 INFO  [Log] Excel sheet opened 
+2020-06-15 16:45:47,686 INFO  [Log] Username entered 
+2020-06-15 16:45:47,778 INFO  [Log] password entered 
+2020-06-15 16:45:47,860 INFO  [Log] Click login button 
+2020-06-15 16:45:48,337 INFO  [Log] Error message found 
+2020-06-15 16:45:48,924 INFO  [Log] Error message found 
+2020-06-15 16:45:48,924 ERROR [Log] Error message didn't match: Expected : Password is incorrect for the entered username : Actual : Username does not existexpected [true] but found [false] 
+2020-06-15 16:45:49,617 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_2_LoginWithInvalidUsername             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:45:49,617 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:45:49,617 INFO  [Log] X 
+2020-06-15 16:45:49,618 INFO  [Log] X 
+2020-06-15 16:45:49,618 INFO  [Log] X 
+2020-06-15 16:45:49,618 INFO  [Log] X 
+2020-06-15 16:45:49,652 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:49,652 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:49,652 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_001_3_LoginWithInvalidPassword       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 16:45:49,652 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:49,652 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:56,180 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 16:45:56,222 INFO  [Log] Excel sheet opened 
+2020-06-15 16:45:56,389 INFO  [Log] Username entered 
+2020-06-15 16:45:56,460 INFO  [Log] password entered 
+2020-06-15 16:45:56,525 INFO  [Log] Click login button 
+2020-06-15 16:45:56,983 INFO  [Log] Error message found 
+2020-06-15 16:45:57,634 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_001_3_LoginWithInvalidPassword             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:45:57,635 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:45:57,635 INFO  [Log] X 
+2020-06-15 16:45:57,635 INFO  [Log] X 
+2020-06-15 16:45:57,635 INFO  [Log] X 
+2020-06-15 16:45:57,635 INFO  [Log] X 
+2020-06-15 16:45:57,678 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:57,678 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:57,678 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_002_1_Logout       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 16:45:57,678 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:45:57,678 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:46:04,271 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 16:46:04,300 INFO  [Log] Excel sheet opened 
+2020-06-15 16:46:04,464 INFO  [Log] Username entered 
+2020-06-15 16:46:04,576 INFO  [Log] password entered 
+2020-06-15 16:46:04,658 INFO  [Log] Click login button 
+2020-06-15 16:46:04,658 INFO  [Log] Login to admin panel 
+2020-06-15 16:46:05,512 INFO  [Log] Click logout button 
+2020-06-15 16:46:05,579 INFO  [Log] Error message found 
+2020-06-15 16:46:06,251 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_002_1_Logout             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:46:06,251 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:46:06,251 INFO  [Log] X 
+2020-06-15 16:46:06,251 INFO  [Log] X 
+2020-06-15 16:46:06,251 INFO  [Log] X 
+2020-06-15 16:46:06,251 INFO  [Log] X 
+2020-06-15 16:46:06,298 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:46:06,298 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:46:06,298 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_003_2_UploadValidMFileWithErrors       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-06-15 16:46:06,298 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:46:06,298 INFO  [Log] **************************************************************************************** 
+2020-06-15 16:46:13,779 INFO  [Log] Driver initiated and go to the UGC Admin panel 
+2020-06-15 16:46:13,802 INFO  [Log] Excel sheet opened 
+2020-06-15 16:46:13,981 INFO  [Log] Username entered 
+2020-06-15 16:46:14,069 INFO  [Log] password entered 
+2020-06-15 16:46:14,120 INFO  [Log] Click login button 
+2020-06-15 16:46:14,120 INFO  [Log] Login to admin panel 
+2020-06-15 16:46:14,914 INFO  [Log] Click Upload M File icon 
+2020-06-15 16:46:15,711 INFO  [Log] Upload M File label found 
+2020-06-15 16:46:15,717 INFO  [Log] Javascript 
+2020-06-15 16:46:15,803 INFO  [Log] Send file path to the text box 
+2020-06-15 16:46:15,886 INFO  [Log] Click upload button 
+2020-06-15 16:46:16,296 INFO  [Log] Error message found 
+2020-06-15 16:46:16,352 INFO  [Log] Error link found 
+2020-06-15 16:46:17,551 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             TC_003_2_UploadValidMFileWithErrors             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:46:17,551 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-06-15 16:46:17,551 INFO  [Log] X 
+2020-06-15 16:46:17,551 INFO  [Log] X 
+2020-06-15 16:46:17,551 INFO  [Log] X 
+2020-06-15 16:46:17,551 INFO  [Log] X 
